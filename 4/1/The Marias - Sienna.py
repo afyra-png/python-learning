@@ -1,3 +1,6 @@
+# everytime finishes a code: 
+# git add . git commit -m "add this file" git push
+
 import time 
 
 def type_word(word):
